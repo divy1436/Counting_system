@@ -1,19 +1,42 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# Counting System
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+A simple and interactive web-based counting system that allows users to increase, decrease, and reset counts dynamically.  
+Live Demo: [Counting System Website](https://countingdevices.netlify.app/)
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+## 🚀 Features
+
+- ➕ **Increment Counter** – Increase the count with a single click.  
+- ➖ **Decrement Counter** – Decrease the count without refreshing the page.  
+- 🔄 **Reset Functionality** – Reset the counter back to zero.  
+- 📱 **Responsive Design** – Works smoothly on desktops, tablets, and mobile devices.  
+- ⚡ **Fast & Lightweight** – Built using clean and optimized code.  
+
+---
+
+## 🖥️ Tech Stack
+
+- **HTML5** – For structuring the content.  
+- **CSS3** – For styling and responsive layout.  
+- **JavaScript (Vanilla JS)** – For counter logic and interactivity.  
+
+---
+
+## 📷 Preview
+
+<img width="1241" height="460" alt="image" src="https://github.com/user-attachments/assets/a25f56b7-c0cd-49b8-b2b2-7ae09373c6cc" />
+
+
+---
+
+## 🔧 Installation & Usage
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/divy1436/Counting_system.git
+````
+
